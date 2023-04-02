@@ -1,6 +1,7 @@
 # Instacart_Sales_Analysis_Python
 
 ## Objective 
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Instacart_logo_and_wordmark.svg/150px-Instacart_logo_and_wordmark.svg.png)
 Instacart is an online grocery store that operates through an app. Instacart already has very good sales, but they want to uncover more information about their sales patterns. This is an initial data and exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria.
 
 ## Context
