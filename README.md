@@ -1,4 +1,4 @@
-# ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Instacart_logo_and_wordmark.svg/150px-Instacart_logo_and_wordmark.svg.png)
+Instacart Sales Analysis 
  This is a Sales Analysis for Instacart grocery store using Python.
 
 ## Objective 
