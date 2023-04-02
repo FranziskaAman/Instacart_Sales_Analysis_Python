@@ -15,4 +15,10 @@ The dataset comprises of information on the following parameters:
 - departments
 - customers
 
-The full details of the data can be found here [Wikipedia](https://en.wikipedia.org).
+The full details of the data can be found [here](https://www.instacart.com/store).
+
+## Tools 
+For this project, the following python libaries were used:
+- pandas - for data analysis
+- seaborn - for visualization
+- matplotlib - for visualization
