@@ -21,3 +21,5 @@ The full details of the data can be found [here](https://www.instacart.com/store
 For this project, the following python libaries were used:
 - pandas - for data analysis
 - seaborn - for visualization
+
+The scripts can be accessed via Jupyter Notebook.
