@@ -1,4 +1,4 @@
-Instacart Sales Analysis 
+## Instacart Sales Analysis 
  This is a Sales Analysis for Instacart grocery store using Python.
 
 ## Objective 
