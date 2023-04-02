@@ -25,12 +25,12 @@ For this project, the following python libaries were used:
 The scripts can be accessed via Jupyter Notebook.
 
 ## Project Deliverables
-2: Jupyter Fundamentals & Python Data Types
+- 2: Jupyter Fundamentals & Python Data Types
 ● Create project folder
 ● Install required Python libraries
 ● Create a notebook and import libraries
 ● Practice coding using basic Python data types
-3: Introduction to Pandas
+- 3: Introduction to Pandas
 ● Download data and import into notebook as a pandas dataframe
 ● Conduct basic descriptive exploratory tasks
 4: Data Wrangling & Subsetting
